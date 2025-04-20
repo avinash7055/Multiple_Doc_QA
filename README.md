@@ -5,6 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 A powerful document analysis tool that allows users to upload various document formats and ask questions about their content. The application uses LangGraph for workflow orchestration and Groq LLMs for natural language understanding.
+![qa_chat](https://github.com/user-attachments/assets/47b5152c-2425-4c84-a2f9-f5dd9ec4bb7b)
 
 ## Features
 
